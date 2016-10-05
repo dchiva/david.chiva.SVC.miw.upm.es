@@ -7,7 +7,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>david.chiva.SVC.miw.upm.es</artifactId>
 	<groupId>es.upm.miw</groupId>
-	<version>1.0.0</version>
+	<version>1.1.0</version>
 	<packaging>jar</packaging>
 
 	<name>${project.groupId}.${project.artifactId}</name>
@@ -28,9 +28,6 @@
 		<junit.version>4.11</junit.version>
 		<!-- Logs -->
 		<log4j.version>2.3</log4j.version>
-		<!-- Data Base -->
-		<database.driver>com.mysql.jdbc.Driver</database.driver>
-		<database.url>jdbc:mysql://localhost:3306/eco</database.url>
 	</properties>
 
 	<profiles>
