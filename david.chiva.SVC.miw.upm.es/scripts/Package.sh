@@ -1,4 +1,4 @@
-export workspace=/home/dc/git/david.chiva.SVC.miw.upm.es/david.chiva.SVC.miw.upm.es
+export workspace=../
 echo -----------------------------------------
 echo ". (C) MIW"
 echo -----------------------------------------
